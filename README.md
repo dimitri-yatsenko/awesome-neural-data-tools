@@ -1,7 +1,5 @@
 # awesome-neural-data-tools
-Tools, algorithms, and frameworks for managing and analyzing neural data.
-
-https://docs.google.com/document/d/1ARgbPQwn6D9cvoW0SNil2Qq6QnbLGszY6IbJJl1OXws/edit?usp=sharing
+Tools, algorithms, and frameworks for managing and analyzing neural data (derived from original notes from the 2018 BRAIN Initiative Investigators Meeting by Liam Paninski)
 
 ## Data types
 Calcium+voltage imaging:
@@ -30,7 +28,7 @@ Calcium+voltage imaging:
 * https://pni.princeton.edu/pni-software-tools/virmen 
 * https://github.com/dendritic/signals
 
-##Fluorescence Imaging
+## Fluorescence Imaging
 * http://ilastik.org/index.html
 
 ## Compression 
