@@ -3,14 +3,14 @@ Tools, algorithms, and frameworks for managing and analyzing neural data.
 
 https://docs.google.com/document/d/1ARgbPQwn6D9cvoW0SNil2Qq6QnbLGszY6IbJJl1OXws/edit?usp=sharing
 
-## Data types
-Calcium+voltage imaging:
+## Calcium+voltage imaging:
 * https://github.com/flatironinstitute/CaImAn 
 * https://github.com/zhoupc/CNMF_E
 * https://github.com/cortex-lab/Suite2P
 * https://github.com/jewellsean/FastLZeroSpikeInference 
 * https://github.com/losonczylab/sima 
 * https://www.biorxiv.org/content/early/2018/05/30/334706 (compression + denoising)
+* https://github.com/bahanonu/calciumImagingAnalysis - Biafra Ahanonu (MIT) 
 
 ## Spike sorting:
 * https://github.com/cortex-lab/KiloSort 
