@@ -12,18 +12,22 @@ Tools, algorithms, and frameworks for managing and analyzing neural data (derive
 
 ## Spike sorting:
 * https://github.com/cortex-lab/KiloSort 
+* https://github.com/mouseland/kilosort2
 * http://www.jrclust.org/ 
+* https://github.com/flatironinstitute/ironclust
 * https://github.com/paninski-lab/yass 
 * https://github.com/flatironinstitute/mountainsort 
 * https://github.com/pillowlab/BinaryPursuitSpikeSorting 
-* https://github.com/open-ephys/plugin-GUI 
+* https://spyking-circus.readthedocs.io/en/latest/
+* http://homepages.inf.ed.ac.uk/mhennig/herdingspikes/
+* https://github.com/tridesclous/tridesclous
 * http://neuralensemble.org/neo/ - Intracellular recording
 
 ## Optogenetic stimulation
 * https://github.com/wjyangGithub/Holographic-Photostimulation-System  (matlab tools for SLM targeting and hologram generation)
 
 ## Behavioral + stimulus control (and analysis)
-* http://www.open-ephys.org/bonsai/
+* https://bonsai-rx.org/
 * http://www.openmaze.org/  
 * https://pni.princeton.edu/pni-software-tools/virmen 
 * https://github.com/dendritic/signals
@@ -34,6 +38,7 @@ Tools, algorithms, and frameworks for managing and analyzing neural data (derive
 ## Compression 
 * http://blosc.org/
 * https://bellard.org/bpg/
+* https://github.com/int-brain-lab/mtscomp
 
 ## Registration & stitching
 * https://github.com/neurodata/ndreg - current reference registration for cleared brain data
@@ -48,7 +53,6 @@ Tools, algorithms, and frameworks for managing and analyzing neural data (derive
 * https://github.com/saalfeldlab/render - current reference implementation for dynamic rendering of aligned data
 
 ## scRNAseq / FISH
-
 * https://github.com/spacetx/starfish
 
 ## Eye tracking
@@ -63,7 +67,6 @@ Tools, algorithms, and frameworks for managing and analyzing neural data (derive
 * https://github.com/AlexEMG/DeepLabCut 
 * https://github.com/carsen-stringer/FaceMap 
 * https://www.biorxiv.org/content/early/2018/05/30/331181
-
 
 ## Statistical Machine Learning
 Spike train data analysis methods - encoding models, decoders, dimensionality reduction, etc
@@ -98,12 +101,12 @@ Tracking provenance of data / analysis outputs.  Automatic repopulation of datab
 * https://colab.research.google.com/notebooks/welcome.ipynb
 * https://www.kaggle.com/kernels
 
-
 ## Data/Tool Repositories:
 * https://crcns.org/
 * https://neurodata.io/
 * https://www.nitrc.org/
 * http://datalad.org/ 
+* https://portal.brain-map.org/
 
 ## Review articles
 * Neural data science: accelerating the experiment-analysis-theory cycle in large-scale neuroscience; Liam Paninski, John Cunningham https://www.biorxiv.org/content/early/2017/10/02/196949 
