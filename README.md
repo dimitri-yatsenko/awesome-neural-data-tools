@@ -45,6 +45,8 @@ Tools, algorithms, and frameworks for managing and analyzing neural data (derive
 * http://stnava.github.io/ANTs/ - reference for much human MRI
 * https://github.com/khaledkhairy/EM_aligner
 * https://abria.github.io/TeraStitcher/ - current reference implementation for linear stitching
+* https://github.com/SainsburyWellcomeCentre/amap-python - automated mouse whole-brain registration
+
 
 ## Electron microscopy
 * https://github.com/google/neuroglancer WebGL-based viewer for volumetric data
@@ -86,6 +88,7 @@ Spike train data analysis methods - encoding models, decoders, dimensionality re
 ### Local-Viz
 * https://imagej.net/BigDataViewer
 * http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/
+* https://github.com/BrancoLab/BrainRender - brainrender 3d neuroanatomical renderings in python
 
 ## Pipelines, data sharing, reproducibility
 Tracking provenance of data / analysis outputs.  Automatic repopulation of databases as analysis algorithms are updated. Store both data and model simulation output
